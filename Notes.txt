@@ -1,0 +1,11 @@
+Notes for the project, will use this to lay out psuedo code / work through the design structure as needed.
+
+will use the pillow library
+
+
+640 x 480
+160 x 120
+console has  width = 171 characters when in 14 pt font / full screen.
+hieght  = 72 character
+
+`^^`^:;,,l!+_l^",l~i:Il;IlII;!__!!ll!tX1?_?}\[_[/?!?/nxvuYufnvnnncJLJu)fUUJCv{+i!lll+)XZwqqpbkkkhhkkhaobwmmO0LCUXXu/|11)(((11?)(|\\(?i!l!l]]_?]}{~,";+iiii::,,~I
