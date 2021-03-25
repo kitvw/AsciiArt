@@ -19,7 +19,8 @@ def tupleAvg(tuple):
 # steps to complete
 # 0. Choose an image
 # 1. Read your image and print its height and width in pixels
-pic = Image.open("picture.jpg")
+path = input("Enter the file name: ")
+pic = Image.open(path)
 #print(pic.size) # (width, height) in pixels
 pic = pic.resize((os.get_terminal_size()[0]-1,os.get_terminal_size()[1]-3))
 '''term = os.get_terminal_size()
